@@ -6,4 +6,5 @@
 
 ## Detalhes 
 - Tecnologias: HTML, CSS e JavaScript
-- Link para jogar: [Simulador de Piano](https://harcanjo.github.io/dio-piano-js/)
+- Link para jogar: [Simulador de Piano](https://fisiofaz.github.io/Simulador.Piano.JS.DIO/)
+- Link do Projeto:[Page do Projeto](https://github.com/fisiofaz/Simulador.Piano.JS.DIO)
